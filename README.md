@@ -1,3 +1,2 @@
 # MRIAcqParameterCheck
-MATLAB script for checking MRI acqusition parameters in DICOM image files against a template
-Run CheckDICOMTag.m in Matlab
+MATLAB script (CheckDICOMTag.m) for checking MRI acqusition parameters in DICOM image files against a template
